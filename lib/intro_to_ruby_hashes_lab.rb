@@ -1,8 +1,12 @@
 def new_hash
+  hash = {}
+  hash 
   # return an empty hash
 end
 
 def my_hash
+  hash = {name: "Steven"}
+  hash 
   # return a valid hash with any key/value pair of your choice
 end
 
